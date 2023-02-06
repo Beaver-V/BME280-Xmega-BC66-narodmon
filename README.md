@@ -3,7 +3,9 @@
 Atmel (Microchip) Studio 7 проект для отправки погодных данных на сервер narodmon.com
 
 Микроконтролер: ATXMEGA32A4U
+
 Датчик:         BME280
+
 Модем:          BC66NB-04-STD
 
 Таймер RTC используется для периодического пробуждения микроконтроллера.
@@ -21,7 +23,9 @@ Google translation:
 Atmel (Microchip) Studio 7 project for sending weather data to the narodmon.com server
 
 Microcontroller:  ATXMEGA32A4U
+
 Sensor:           BME280
+
 Modem:            BC66NB-04-STD
 
 The RTC timer is used to periodically wake up the microcontroller.
